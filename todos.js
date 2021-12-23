@@ -19,5 +19,13 @@ module.exports = [
   {
     id: 5,
     task: "Take out the trash"
+  },
+  {
+    id: 6,
+    task: "Pull clothes out of dryer"
+  },
+  {
+    id: 7,
+    task: "Run through circle ci tut a second time"
   }
 ];
