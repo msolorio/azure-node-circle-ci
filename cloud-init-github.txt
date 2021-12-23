@@ -24,7 +24,7 @@ runcmd:
   - 'sudo apt-get install -y nodejs'
   # clone GitHub Repo into myapp directory
   - 'cd /home/azureuser'
-  - git clone "https://github.com/coderonfleek/node-azure-vm" myapp
+  - git clone "https://github.com/msolorio/azure-node-circle-ci" myapp
   # Install pm2
   - 'sudo npm install pm2 -g'
   # restart NGINX
